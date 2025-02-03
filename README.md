@@ -4,29 +4,32 @@
 
 2) Group Policy Objects (GPOs) enumeration
 
-3)SMB and DCOM connectivity tests
-4)Domain Password Policy retrieval
+3) SMB and DCOM connectivity tests
+   
+4) Domain Password Policy retrieval
 
-5)DNS Misconfiguration checks
+5) DNS Misconfiguration checks
 
-6)SID History retrieval
+6) SID History retrieval
 
-7)PDF report generation for findings
+7) PDF report generation for findings
 
 **Requirements**
+
 Before running the tool, ensure you have the following installed:
 
 Python 3.7 or higher
 Required Python libraries:
-ldap3
-colorama
-pyfiglet
-argparse
-fpdf
-winrm
-smbprotocol
-dnspython
-impacket
+1) ldap3
+2) colorama
+3) pyfiglet
+4) argparse
+5) fpdf
+6) winrm
+7) smbprotocol
+8) dnspython
+9) impacket
+
 You can install all dependencies using:
 pip install -r requirements.txt
 **Usage**
