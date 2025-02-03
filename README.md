@@ -1,11 +1,15 @@
 **Features**
+
 LDAP Enumeration (users, schema, Active Directory hierarchy)
+
 Group Policy Objects (GPOs) enumeration
+
 SMB and DCOM connectivity tests
 Domain Password Policy retrieval
 DNS Misconfiguration checks
 SID History retrieval
 PDF report generation for findings
+
 **Requirements**
 Before running the tool, ensure you have the following installed:
 
