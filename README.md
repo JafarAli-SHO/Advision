@@ -96,6 +96,9 @@ python Advision.py --server 192.168.1.10 --dns
 ## Outputs
 
 The tool generates a detailed PDF report for LDAP enumeration results, saved as:
+
+![advision_final](https://github.com/user-attachments/assets/d2a401e7-4939-472c-aa6e-189c711875d5)
+
 ```bash
 ldapenumerationresults.pdf
 ```
