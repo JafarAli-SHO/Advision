@@ -3,7 +3,9 @@
 # Advision Tool
 
 Advision is a Python-based tool for **LDAP and Active Directory enumeration**. It also includes features for testing connectivity, retrieving security policies, and identifying misconfigurations in enterprise environments. This tool is designed for **red teamers**, **penetration testers**, and **cybersecurity professionals**.
-![Uploading advision.png…]()
+
+![advision](https://github.com/user-attachments/assets/b26ab55f-a3b6-4091-911e-06ac211de8f6)
+
 
 
 ---
